@@ -1,6 +1,5 @@
 # SuperStorePowerBI
 Running process
-
 >> Create database SuperStore
 >> Create all Table by running script CreateAllTables.sql
 >> run all Store Procedure in SQL folder
